@@ -66,4 +66,4 @@ sidebar_position: 2
 
 ## 如何为 Safari 浏览器安装 AdGuard 浏览器扩展
 
-适用于 Safari 的 AdGuard 不是一般意义上的浏览器扩展。 您可以在[知识库](/adguard-for-safari/overview)中阅读更多相关信息， 或者您可以直接从本网页[下载安装文件](https://agrd.io/safari_release)。
+适用于 Safari 的 AdGuard 不是一般意义上的浏览器扩展。 You can read more about it in a [dedicated article](/adguard-for-safari/overview). 或者您可以直接从本网页[下载安装文件](https://agrd.io/safari_release)。
